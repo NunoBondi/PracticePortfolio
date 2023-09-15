@@ -19,7 +19,7 @@
             <h1 class="sm:h-[200px] sm:w-[200px] sm:text-left sm:pl-8 text-center  sm:pt-8 mb-16 font-workSans text-5xl">
                 <p class="leading-snug">
                     ¿Puedo ayudarte? <br>
-                    Escribeme<span class="animate-ping">_</span>
+                    Escríbeme<span class="animate-ping">_</span>
                 </p>
             </h1>
         </div>
