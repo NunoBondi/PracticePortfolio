@@ -4,7 +4,7 @@
             <div class="Logo flex justify-center">
                 <p
                     class="text-4xl sm:items-center sm:flex bg-clip-text text-transparent bg-gradient-to-r from-gray-400 mb-2 to-white italic font-semibold">
-                    <a href="#">JP.Amoretty</a>
+                    <a href="#">Bondi Dev</a>
                 </p>
             </div>
             <!-- accesing section -->

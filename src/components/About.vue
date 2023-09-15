@@ -5,9 +5,9 @@
         <div class="w-[380px] flex-col text-center mx-auto h-auto hover:border-gray-500 border-2 border-[#0e0d1b] bg-[#1c1a30]  pt-5 rounded-lg">
                 <img src="../../pictures/profilePicture.jfif" class="w-[200px] mx-auto rounded-full h-[200px]" alt="">
             
-            <h1 class="font-semibold text-3xl pt-2">Justo Prado</h1>
-            <h2 class="mt-3 text-xl text-blue-600 font-semibold">Desarrollador Web Jr</h2>
-            <p class="mt-3">Diseño web con pasión, desarrollo con dedicación.</p>
+            <h1 class="font-semibold font-workSans text-3xl pt-2">Justo Prado</h1>
+            <h2 class="mt-3 text-xl text-blue-600 font-workSans font-semibold">Desarrollador Web</h2>
+            <p class="mt-3 font-workSans">Diseño web con pasión, desarrollo con dedicación.</p>
             <Redes class="my-3 mx-auto" />
         </div>
 <!-- Estaba pensando que la ultima vez que te vi fue poco mas de tres anos, la vez que te acompa'e por tus lentes -->

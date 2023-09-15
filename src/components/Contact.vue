@@ -7,18 +7,18 @@
 
                 <input class="h-[40px] w-[300px] mx-[40px] border-slate-500 border-b-[1px] bg-transparent  text-left  mb-3 focus:outline-none focus:border-none focus:ring-1 focus:ring-sky-400 focus:rounded-md text-black"
                     type="text" name="asunto" required placeholder="  Asunto">
-                <input class=" h-[40px] w-[300px] mx-[40px] border-slate-500 bordercd-b-[1px] bg-transparent text-left  mb-3 focus:outline-none focus:border-none focus:ring-1 focus:ring-sky-400 focus:rounded-md text-black"
+                <input class=" h-[40px] w-[300px] mx-[40px] border-slate-500 border-b-[1px] bg-transparent text-left  mb-3 focus:outline-none focus:border-none focus:ring-1 focus:ring-sky-400 focus:rounded-md text-black"
                     type="email" name="email" required placeholder="  Email">
                   
                 <textarea
                     class="h-[90px] w-[300px] mx-[40px] border-slate-500 border-b-[1px] bg-transparent  text-left mb-3 focus:outline-none focus:border-none focus:ring-1 focus:ring-sky-400 focus:rounded-md  text-black"
-                    name="message" id="message" required cols="30" rows="10" placeholder="say something"></textarea>
-                <button type="submit"
+                    name="message" id="message" required cols="30" rows="10" placeholder="Dime algo."></textarea>
+                <button type="submit" value="enviar"
                     class="text-black mx-[115px] mt-8 hover:bg-black hover:text-white w-[150px] h-[40px] bg-slate-200 rounded-lg">Submit</button>
             </form>
             <h1 class="sm:h-[200px] sm:w-[200px] sm:text-left sm:pl-8 text-center  sm:pt-8 mb-16 font-workSans text-5xl">
                 <p class="leading-snug">
-                    Puedo ayudarte? <br>
+                    ¿Puedo ayudarte? <br>
                     Escribeme<span class="animate-ping">_</span>
                 </p>
             </h1>
