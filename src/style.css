@@ -5,13 +5,34 @@
 
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
-  background-color: #161616;
+  background-color: #272444;
+  /* background-color: #161616; */
+
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
+}
+.border-animation {
+  position: relative;
+}
+
+.border-animation::before {
+  position: absolute;
+  bottom: 0;
+  content: "";
+  display: block;
+  width: 0;
+  height: 3px;
+  background-color: #fff;
+  transition: all 0.3s;
+}
+
+.border-animation:hover::before {
+  width: 110%;
+  left: 0;
 }
 
 @tailwind base;

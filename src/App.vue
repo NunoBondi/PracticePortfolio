@@ -2,13 +2,17 @@
 import Nav from './components/Nav.vue';
 import Bio from './partials/Bio.vue';
 import Skills from './components/Skills.vue';
+import Contact from './components/Contact.vue';
+import Top from './partials/Top.vue';
 </script>
 
 <template>
 
-  <Nav class="sticky  top-0"/>
+  <Nav class=""/>
 <Bio/>
 <Skills/>
+<Contact/>
+<Top class="fixed sm:inset-y-[580px] sm:inset-x-[1150px] inset-y-[600px] inset-x-[330px] "/>
 
 </template>
 
