@@ -1,7 +1,7 @@
 <template>
     <section class="w-full sm:h-[500px] h-[900px] sm:mt-[100px] flex pt-1 items-center mt-[8px] ">
         <div id="contacto" class=" w-[380px] sm:w-[800px] h-[600px]  sm:flex flex flex-col-reverse  sm:flex-row-reverse sm:justify-between mx-auto  ">
-            <form class="w-[380px]   h-[400px] bg-white rounded-xl shadow-xl drop-shadow-2xl " netlify method="POST">
+            <form class="w-[380px]   h-[400px] bg-white rounded-xl shadow-xl drop-shadow-2xl " data-netlify="true" name="contact" method="POST">
                 <h1 class="text-black font-workSans font-semibold text-4xl pt-6 border-black w-auto h-auto text-center  mb-4">
                     Contacto</h1>
 
