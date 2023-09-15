@@ -26,7 +26,7 @@
                     </li>
                     <li class="flex flex-col items-center h-[75px] justify-between font-semibold">
                         <img class="w-[40px] h-[20px] sm:w-[60px] sm:h-[40px] mt-4 grayscale hover:grayscale-0"
-                            src="./../../pictures/tailwindcss.png" alt="Tailwindcss">
+                            src="./../../pictures/Tailwindcss.png" alt="Tailwindcss">
                             <span class="sm:mt-[45px]">Tailwind</span>
                     </li>
                     <li class="flex flex-col items-center h-[75px] justify-between font-semibold">
